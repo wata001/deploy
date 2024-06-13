@@ -1,6 +1,6 @@
 version: '3'
 services:
   nginx:
-    image: wata00/docker-cicd:202406131113
+    image: wata00/docker- cicd:202406131754
     ports:
       - "8080:80"
